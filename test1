@@ -40,7 +40,7 @@ Button1.Text = "Run Script 1"
 Button1.TextColor3 = Color3.fromRGB(255, 255, 255)
 Button1.TextSize = 18
 Button1.MouseButton1Click:Connect(function()
-    loadstring(game:HttpGet("https://pastebin.com/raw/YourScript1"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/GaGPS/test/refs/heads/main/test2"))()
 end)
 
 -- Button 2
